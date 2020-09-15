@@ -7,4 +7,3 @@ description = "basic app"
 [tool.poetry.dependencies]
 flask = "==1.0.2"
 python = "^3.8"
-bs4 = "^0.0.1"
